@@ -9,7 +9,7 @@ public class Animal {
 	public Animal() { 
 		// nothing to do here at the moment
 		// if you remove this constructor, there will be an error in Cat class
-	} 
+	}  
 	
 	//Constructor2
 	public Animal(int age, String name) {

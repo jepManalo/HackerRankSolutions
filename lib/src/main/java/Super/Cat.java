@@ -21,6 +21,7 @@ public class Cat extends Animal {
 		
 		eat();
 		super.name = "Hello";
+		super.name = "Hi";
 	}
 	
 	public void jump() {
